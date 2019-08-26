@@ -1,0 +1,15 @@
+{
+  "name": "mongorides",
+  "version": "1.0.0",
+  "description": "import and possibly analyze Golden Cheetah rides to MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^7.1.4",
+    "mongodb": "^3.3.1"
+  }
+}
